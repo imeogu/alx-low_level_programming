@@ -28,3 +28,4 @@ What you should learn from this project:
 
 ### 6. [Size is not grandeur, and territory does not make a nation](./6-size.c)
 * Write a C program that prints the size of various types on the computer it is compiled and run on.
+## DE
