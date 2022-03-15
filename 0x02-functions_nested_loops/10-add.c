@@ -1,16 +1,11 @@
 #include "holberton.h"
-
 /**
-* add - adds two integers and returns the result
-* @n: added to m
-* @m: added to n
-*
-* Return: returns result of addition of two integers
-*/
-int add(int n, int m)
+ * add - adds two numbers together.
+ * @i: The first number to be added.
+ * @j: The second number to be added.
+ * Return: the sum of two numbers.
+ */
+int add(int i, int j)
 {
-	int sum;
-
-	sum = n + m;
-	return (sum);
+	return (i + j);
 }
