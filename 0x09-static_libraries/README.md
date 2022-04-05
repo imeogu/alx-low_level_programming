@@ -1,1 +1,2 @@
-Static libraries excercises
+# *C Static Libraries*
+* libraries
