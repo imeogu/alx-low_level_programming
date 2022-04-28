@@ -1,6 +1,1 @@
-### C-Programming
-
------------------
-
-### MORE SINGLY LINKED LISTS
-
+# *More Singly Linked Lists*
